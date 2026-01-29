@@ -30,4 +30,12 @@ public class fclass {
         System.out.println("how");
         System.out.println("jnifkcr");
     }
+    void ht(){
+        System.out.println("how");
+        System.out.println("jnifkcr");
+    }
+    void djkbwetr(){
+        System.out.println("how");
+        System.out.println("jnifkcr");
+    }
 }
