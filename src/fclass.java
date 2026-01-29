@@ -18,4 +18,16 @@ public class fclass {
         System.out.println("how");
         System.out.println("jnifkcr");
     }
+    @Test
+    void now(){
+        System.out.println("how");
+        System.out.println("jnifkcr");
+        System.out.println("how");
+        System.out.println("jnifkcr");
+    }
+    @Test
+    void djkbwr(){
+        System.out.println("how");
+        System.out.println("jnifkcr");
+    }
 }
