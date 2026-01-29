@@ -16,5 +16,6 @@ public class fclass {
     @Test
     void how(){
         System.out.println("how");
+        System.out.println("jnifkcr");
     }
 }
