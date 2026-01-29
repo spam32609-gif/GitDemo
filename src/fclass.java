@@ -13,4 +13,8 @@ public class fclass {
     void browse(){
         System.out.println("browsing");
     }
+    @Test
+    void how(){
+        System.out.println("how");
+    }
 }
